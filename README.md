@@ -29,3 +29,17 @@ Insights:
 •	The data was provided for 6 months, in that 6 months even one month also they didn’t achieve the target in terms of delivering the products on time, in full and on time in full
 
 •	Among all products, AM milk is most quantity ordered product and AM Ghee is least ordered product
+
+# Hospitality Domian Project
+Power BI project to provide insights to the revenue team in hospitality domain
+
+Business Problem :
+	AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category.
+
+Task:
+•	Create the metrics based on information given by the stakeholder
+
+•	Create the dashboard based on requirement provided by the stakeholder
+
+•	Create insights related to data
+
