@@ -2,6 +2,7 @@
 
 # Supply Chain Project
 Power BI project to provide insights to solve the supply chain issue in FMCG domain
+
 Business Problem:
 
 	AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues.
